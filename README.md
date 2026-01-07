@@ -37,11 +37,12 @@ This project is a high-performance application built using **Vanilla Web Technol
 Screenshots of my tested devices. <br>
 Iphone 12 Pro
 
-<img width="450" height="980" alt="Screenshot 2026-01-05 165551" src="https://github.com/user-attachments/assets/566ec49a-b64b-4ed1-86f4-6064a7775200" />
+<img width="450" height="980" alt="Screenshot 2026-01-05 165551" src="https://github.com/user-attachments/assets/44d61edb-5585-4550-92ac-0804314f171d" />
 
 Omnibook X 16 inches
 
-<img width="1900" height="1090" alt="Screenshot 2026-01-05 165748" src="https://github.com/user-attachments/assets/055b4580-a24f-446f-8351-7987771fa98a" />
+<img width="1900" height="1090" alt="Screenshot 2026-01-05 165748" src="https://github.com/user-attachments/assets/8fdcd16b-b0e0-4068-8984-b41428f3fa51" />
+
 
 ---
 
